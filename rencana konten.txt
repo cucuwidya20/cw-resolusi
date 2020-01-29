@@ -2,6 +2,8 @@ RENCANA KONTEN CW
 
 - html
 - javascript
+  * framework javascript
+  * tools terbaru
 - php dasar
 - interview
 - vlog
